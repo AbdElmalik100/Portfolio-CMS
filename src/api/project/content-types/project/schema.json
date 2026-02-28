@@ -32,6 +32,14 @@
       "type": "uid",
       "targetField": "name",
       "required": true
+    },
+    "github_link": {
+      "type": "string",
+      "required": true
+    },
+    "demo_link": {
+      "type": "string",
+      "required": true
     }
   }
 }
